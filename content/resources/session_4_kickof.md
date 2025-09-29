@@ -7,6 +7,8 @@ description: This file contains the review of the public health, environmental, 
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/e66204a18cb1c395bb7478f181722f54_session_4_kickof.pdf
 file_size: 418358
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

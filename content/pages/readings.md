@@ -2,6 +2,8 @@
 content_type: page
 description: This readings section provides information on the assigned readings for
   the lectures in the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -43,7 +45,7 @@ Problem Identification
 {{< tdopen >}}
 
 
-"What will it take? Water, Sanitation, and the Millennium Development Goals." Abridged Final Report of the United Nations Millennium Project's Task Force on Water and Sanitation. ({{% resource_link "2a3eaf68-07bb-44b8-8439-6ff3a9ae2d3e" "PDF - 1.3MB" %}})
+"What will it take? Water, Sanitation, and the Millennium Development Goals." Abridged Final Report of the United Nations Millennium Project's Task Force on Water and Sanitation. ([PDF - 1.3MB](http://www.oecd.org/dac/gender-development/45604012.pdf))
 
 World Health Organization and UNICEF. _Global Water Supply and Sanitation Assessment_. Excerpts, 2000.
 
@@ -103,13 +105,13 @@ The Millennium Development Goals for Water and Sanitation
 {{< tdopen >}}
 
 
-Visit {{% resource_link "248f35ab-5f73-44e6-91fb-1b167aa084d8" "Millennium Development Goals" %}} for some background information on the MDG process.
+Visit [Millennium Development Goals](http://www.un.org/millenniumgoals/) for some background information on the MDG process.
 
 Note: If you are unfamiliar with international aid agencies like the World Bank, you will also find the following Web sites useful:
 
-{{% resource_link "82997aba-000a-4ff0-8fa5-ce1a5a5aaad8" "The World Bank Group" %}} (click on 'About' at the top left corner)
+[The World Bank Group](http://www.worldbank.org/) (click on 'About' at the top left corner)
 
-{{% resource_link "3ea6a827-56a7-45b7-98f6-8a6bef88c354" "The World Bank and International Monetary Fund" %}} (start with the 'Questions and Answers' link)
+[The World Bank and International Monetary Fund](http://www.worldbank.org/ida/) (start with the 'Questions and Answers' link)
 
 
 {{< tdclose >}}
@@ -171,7 +173,7 @@ The Evolution of W&S Infrastructure Planning in Developing Countries: Supply ver
 {{< tdopen >}}
 
 
-{{% resource_link "2f7040c8-227f-469b-b74a-656ec8d8baf3" "The Dublin Statement" %}}
+[The Dublin Statement](http://www.wmo.int/pages/prog/hwrp/documents/english/icwedece.html)
 
 McPhail, A. "The 'Five Percent Rule' for Improved Water Service: Can Households Afford More?" _World Development_ 21, no. 6 (1993): 963-973.
 
@@ -281,11 +283,11 @@ Financing and Pricing of Water and Sanitation Services
 {{< tdopen >}}
 
 
-Boland, J., and D. Whittington. "{{% resource_link "823e93e8-e966-485a-8963-a99e2611b79e" "The Political Economy of Increasing Block Tariffs in Developing Countries" %}}." Ottowa: Economy and Environment Program for Southeast Asia, 2003.
+Boland, J., and D. Whittington. "[The Political Economy of Increasing Block Tariffs in Developing Countries](https://www.researchgate.net/publication/237288723_The_Political_Economy_of_Increasing_Block_Tariffs_in_Developing_Countries)." Ottowa: Economy and Environment Program for Southeast Asia, 2003.
 
-UNDP-World Bank Water and Sanitation Program. "Willing to Pay but Unwilling to Charge." Field Note, June 1999. ({{% resource_link "12d62773-2934-47bc-b784-d927b2403073" "PDF - 5.2 MB" %}})
+UNDP-World Bank Water and Sanitation Program. "Willing to Pay but Unwilling to Charge." Field Note, June 1999. ([PDF - 5.2 MB](http://documents.worldbank.org/curated/en/119381468042257913/pdf/multi0page.pdf))
 
-DeMoor, Andre. "Stalking the Elusive Subsidy ({{% resource_link "3dfcebfa-dfce-4ca2-80ff-c70fa1c1301b" "PDF" %}})," and "Water, Water Everywhere ({{% resource_link "3dfcebfa-dfce-4ca2-80ff-c70fa1c1301b" "PDF" %}})." In _Subsidizing Unsustainable Development: Undermining the Earth with Public Funds_. San Jose, Costa Rica: Earth Council, 1997. ISBN: 0968184405.
+DeMoor, Andre. "Stalking the Elusive Subsidy ([PDF](https://www.cbd.int/doc/case-studies/inc/cs-inc-earthcouncil-unsustainable-en.pdf))," and "Water, Water Everywhere ([PDF](https://www.cbd.int/doc/case-studies/inc/cs-inc-earthcouncil-unsustainable-en.pdf))." In _Subsidizing Unsustainable Development: Undermining the Earth with Public Funds_. San Jose, Costa Rica: Earth Council, 1997. ISBN: 0968184405.
 
 
 {{< tdclose >}}

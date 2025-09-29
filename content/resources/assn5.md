@@ -5,6 +5,8 @@ description: This file includes questions on the strategies to improve access to
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/06be216b99ed0b358a203caa359bf315_assn5.pdf
 file_size: 9959
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

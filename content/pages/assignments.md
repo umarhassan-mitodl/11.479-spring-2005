@@ -3,6 +3,8 @@ content_type: page
 description: This assignments section provides information on assignments of reading
   journals, and policy memos, and some policy memo examples from the students of 2004
   term.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

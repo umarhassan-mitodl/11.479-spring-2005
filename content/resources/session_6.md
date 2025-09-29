@@ -6,6 +6,8 @@ description: This file explains women as a unique stakeholder group, the "right"
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/dbeb700ca956cf84adc5dca90c5829f0_session_6.pdf
 file_size: 256946
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

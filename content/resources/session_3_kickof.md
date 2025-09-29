@@ -4,6 +4,8 @@ description: This file explains defining and measuring access to improved servic
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/bbe474488a492746184cc836a777d18f_session_3_kickof.pdf
 file_size: 233472
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

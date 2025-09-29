@@ -5,6 +5,8 @@ description: This file explains how to allocate scarce resources, goods, and ser
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/16eb263c826d8991d8a7f4a49c6f3dd8_microeconomics_t.pdf
 file_size: 44490
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

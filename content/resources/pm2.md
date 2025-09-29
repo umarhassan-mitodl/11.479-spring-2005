@@ -6,6 +6,8 @@ description: This file provides information on the assignment to review the back
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/8a8744cb33fadf2333a013bd543bf620_pm2.pdf
 file_size: 28490
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

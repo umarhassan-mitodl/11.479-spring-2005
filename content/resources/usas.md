@@ -6,6 +6,8 @@ description: This file provides information on the recommendation for establishi
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/becf4f0723ffb996e7bbd9e614a10db7_usas.pdf
 file_size: 172464
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

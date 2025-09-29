@@ -5,6 +5,8 @@ description: This file includes question on the advantages and challenges of com
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/9468bf092f2596a01e28d95424319375_assn6.pdf
 file_size: 10384
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
