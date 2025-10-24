@@ -4,8 +4,6 @@ description: 'This related resources section provides additional links on the fo
   topics:  Water, sanitation, and health, history of W&S services, organizations,
   planning and policy topics, case studies, facts and figures, and W&S global overview.'
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
