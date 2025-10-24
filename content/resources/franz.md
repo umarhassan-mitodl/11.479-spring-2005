@@ -5,8 +5,6 @@ description: This file provides information on the proposal for the secondary to
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/fb7ccdd5667c0dab653b656a6075b1c3_franz.pdf
 file_size: 151468
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

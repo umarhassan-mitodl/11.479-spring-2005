@@ -4,8 +4,6 @@ description: This file includes questions on objectives to meet with W&S service
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/873aeeef1ade71a8c059f882396e6109_assn7.pdf
 file_size: 8976
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

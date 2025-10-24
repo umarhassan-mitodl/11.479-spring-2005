@@ -6,8 +6,6 @@ description: This file contains information on what the millennium development g
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/7c4029c30ac6b14dcac99d4046f41620_session_5_kickof.pdf
 file_size: 1747167
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

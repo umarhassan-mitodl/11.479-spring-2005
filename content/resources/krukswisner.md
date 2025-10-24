@@ -6,8 +6,6 @@ description: This file provides information on the proposal for the establishmen
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/3ac237b55cea21c18fc136b8a20f007d_krukswisner.pdf
 file_size: 193407
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This file includes questions which deal with the advantages and cha
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/a5baf2a6325b04b4e0b143898a2921e3_assn4.pdf
 file_size: 10266
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

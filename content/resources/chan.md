@@ -5,8 +5,6 @@ description: This file provides the information about the proposal which is prim
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/c12c2bc121389ffcfe505204b21d4e8f_chan.pdf
 file_size: 133566
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
