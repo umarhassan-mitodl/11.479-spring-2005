@@ -43,7 +43,7 @@ Problem Identification
 {{< tdopen >}}
 
 
-"What will it take? Water, Sanitation, and the Millennium Development Goals." Abridged Final Report of the United Nations Millennium Project's Task Force on Water and Sanitation. ([PDF - 1.3MB](http://www.oecd.org/dac/gender-development/45604012.pdf))
+"What will it take? Water, Sanitation, and the Millennium Development Goals." Abridged Final Report of the United Nations Millennium Project's Task Force on Water and Sanitation. ({{% resource_link "ef4f9940-e4a0-434e-83d4-1ec82fbe5345" "PDF - 1.3MB" %}})
 
 World Health Organization and UNICEF. _Global Water Supply and Sanitation Assessment_. Excerpts, 2000.
 
@@ -103,13 +103,13 @@ The Millennium Development Goals for Water and Sanitation
 {{< tdopen >}}
 
 
-Visit [Millennium Development Goals](http://www.un.org/millenniumgoals/) for some background information on the MDG process.
+Visit {{% resource_link "af2ca693-3886-4c41-b537-a642e6d087af" "Millennium Development Goals" %}} for some background information on the MDG process.
 
 Note: If you are unfamiliar with international aid agencies like the World Bank, you will also find the following Web sites useful:
 
-[The World Bank Group](http://www.worldbank.org/) (click on 'About' at the top left corner)
+{{% resource_link "4d4b52f3-f6cc-41ef-bb81-352419d2a2d9" "The World Bank Group" %}} (click on 'About' at the top left corner)
 
-[The World Bank and International Monetary Fund](http://www.worldbank.org/ida/) (start with the 'Questions and Answers' link)
+{{% resource_link "b703f803-11e0-48fe-8571-aba65cf57887" "The World Bank and International Monetary Fund" %}} (start with the 'Questions and Answers' link)
 
 
 {{< tdclose >}}
@@ -171,7 +171,7 @@ The Evolution of W&S Infrastructure Planning in Developing Countries: Supply ver
 {{< tdopen >}}
 
 
-[The Dublin Statement](http://www.wmo.int/pages/prog/hwrp/documents/english/icwedece.html)
+{{% resource_link "f6a0b408-4ca1-45b5-8ff0-34a809d6e823" "The Dublin Statement" %}}
 
 McPhail, A. "The 'Five Percent Rule' for Improved Water Service: Can Households Afford More?" _World Development_ 21, no. 6 (1993): 963-973.
 
@@ -281,11 +281,11 @@ Financing and Pricing of Water and Sanitation Services
 {{< tdopen >}}
 
 
-Boland, J., and D. Whittington. "[The Political Economy of Increasing Block Tariffs in Developing Countries](https://www.researchgate.net/publication/237288723_The_Political_Economy_of_Increasing_Block_Tariffs_in_Developing_Countries)." Ottowa: Economy and Environment Program for Southeast Asia, 2003.
+Boland, J., and D. Whittington. "{{% resource_link "9cce01bf-d66a-4c00-9895-a88518dd77e1" "The Political Economy of Increasing Block Tariffs in Developing Countries" %}}." Ottowa: Economy and Environment Program for Southeast Asia, 2003.
 
-UNDP-World Bank Water and Sanitation Program. "Willing to Pay but Unwilling to Charge." Field Note, June 1999. ([PDF - 5.2 MB](http://documents.worldbank.org/curated/en/119381468042257913/pdf/multi0page.pdf))
+UNDP-World Bank Water and Sanitation Program. "Willing to Pay but Unwilling to Charge." Field Note, June 1999. ({{% resource_link "dd777d9e-0fc4-412e-af1a-36df423aaace" "PDF - 5.2 MB" %}})
 
-DeMoor, Andre. "Stalking the Elusive Subsidy ([PDF](https://www.cbd.int/doc/case-studies/inc/cs-inc-earthcouncil-unsustainable-en.pdf))," and "Water, Water Everywhere ([PDF](https://www.cbd.int/doc/case-studies/inc/cs-inc-earthcouncil-unsustainable-en.pdf))." In _Subsidizing Unsustainable Development: Undermining the Earth with Public Funds_. San Jose, Costa Rica: Earth Council, 1997. ISBN: 0968184405.
+DeMoor, Andre. "Stalking the Elusive Subsidy ({{% resource_link "cf8c0a2a-b251-4442-a90b-f402e5c7983a" "PDF" %}})," and "Water, Water Everywhere ({{% resource_link "cf8c0a2a-b251-4442-a90b-f402e5c7983a" "PDF" %}})." In _Subsidizing Unsustainable Development: Undermining the Earth with Public Funds_. San Jose, Costa Rica: Earth Council, 1997. ISBN: 0968184405.
 
 
 {{< tdclose >}}
